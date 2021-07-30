@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wyldescience
+- 👋 Hi, I’m @wyldescience :bug: :beetle:
 - 👀 Iam an evolutionary ecologist interested in sexual selection, chemical signalling, the evolution of insect genitalia, integration, ageing, nongenetic inheritance
 and sperm competition and many things!
 - 🌱 I’m currently a postdoctoral research at Western Sydney Univeristy, NSW, Australia.
